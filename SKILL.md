@@ -1,3 +1,9 @@
+---
+name: web-qa-bot
+description: AI-powered web application QA automation using accessibility-tree based testing. Smoke tests, test suites, and PDF reports.
+version: 0.1.0
+---
+
 # web-qa-bot
 
 AI-powered web application QA automation using accessibility-tree based testing.
