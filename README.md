@@ -1,8 +1,38 @@
 # web-qa-bot
 
-AI-powered web application QA automation using accessibility-tree based testing.
+**🤖 AI-Powered QA Automation** — QA without the QA team. Smoke tests, accessibility checks, and visual regression in one command.
 
-[![npm version](https://badge.fury.io/js/web-qa-bot.svg)](https://www.npmjs.com/package/web-qa-bot)
+[![npm version](https://img.shields.io/npm/v/web-qa-bot.svg?style=flat-square)](https://www.npmjs.com/package/web-qa-bot)
+[![npm downloads](https://img.shields.io/npm/dm/web-qa-bot.svg?style=flat-square)](https://www.npmjs.com/package/web-qa-bot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+---
+
+## Works With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Playwright-Testing-45ba4b?style=for-the-badge&logo=playwright" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge&logo=anthropic" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel" alt="Vercel" />
+</p>
+
+<p align="center">
+  <strong>Built for:</strong> Clawdbot • Moltbot • CI/CD Pipelines • AI Agents
+</p>
+
+---
+
+## Why web-qa-bot?
+
+- **No selectors** — Uses accessibility tree, not brittle CSS selectors
+- **One command** — `npx web-qa-bot smoke https://your-app.com`
+- **AI-powered** — Smart element detection with auto-retry
+- **CI-ready** — Exit codes for GitHub Actions, GitLab CI, etc.
+- **PDF reports** — Professional reports via ai-pdf-builder
+
+---
 
 ## Features
 
